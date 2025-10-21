@@ -2,7 +2,7 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
+      "gateway" : true,
       "overwriteActivityTime" : false,
       "description" : ""
     },
@@ -20,7 +20,7 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "2beccc80-03d2-11f0-b49e-73e9f982809f"
+      "id" : "637aa2e0-6d53-11f0-9871-3537796d785b"
     },
     "externalId" : null,
     "firmwareId" : null,
@@ -28,10 +28,10 @@
       "entityType" : "DEVICE",
       "id" : "6c6cba80-ae5a-11f0-80dc-a13212beee54"
     },
-    "label" : "",
+    "label" : "Hello",
     "name" : "Smoke Device",
     "softwareId" : null,
-    "type" : "default"
+    "type" : "NEPTUNE-360"
   },
   "credentials" : {
     "credentialsId" : "KQXTZjF9lnIcZ86TIBut",
@@ -39,7 +39,23 @@
     "credentialsValue" : null
   },
   "attributes" : {
-    "SERVER_SCOPE" : [ ],
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1761037000908,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1761037000900,
+      "longValue" : 1761037000900,
+      "strValue" : null
+    } ],
     "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
