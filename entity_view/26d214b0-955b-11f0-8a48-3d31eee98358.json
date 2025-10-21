@@ -1,0 +1,53 @@
+{
+  "entityType" : "ENTITY_VIEW",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "endTimeMs" : 0,
+    "entityId" : {
+      "entityType" : "DEVICE",
+      "id" : "f119d610-0fa8-11f0-ac58-07a9a3dd9c7f"
+    },
+    "externalId" : null,
+    "keys" : {
+      "attributes" : {
+        "cs" : null,
+        "sh" : null,
+        "ss" : null
+      },
+      "timeseries" : null
+    },
+    "name" : "test 3",
+    "startTimeMs" : 0,
+    "type" : "Test type",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "id" : {
+      "entityType" : "ENTITY_VIEW",
+      "id" : "26d214b0-955b-11f0-8a48-3d31eee98358"
+    }
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "SRT",
+      "lastUpdateTs" : 1758289858389,
+      "longValue" : null,
+      "strValue" : "te"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "cvgtj",
+      "lastUpdateTs" : 1758289979825,
+      "longValue" : 24,
+      "strValue" : null
+    } ]
+  }
+}

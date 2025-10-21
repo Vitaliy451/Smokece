@@ -1,0 +1,34 @@
+{
+  "entityType" : "NOTIFICATION_RULE",
+  "entity" : {
+    "additionalConfig" : {
+      "description" : "Send notification to tenant admins when any device changes its activity state"
+    },
+    "enabled" : false,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "2c1bf2d0-03d2-11f0-b49e-73e9f982809f"
+    },
+    "id" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "2c1bf2d0-03d2-11f0-b49e-73e9f982809f"
+    },
+    "name" : "Device activity status change",
+    "recipientsConfig" : {
+      "targets" : [ "2c10a830-03d2-11f0-b49e-73e9f982809f" ],
+      "triggerType" : "DEVICE_ACTIVITY"
+    },
+    "templateId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "2c1b5690-03d2-11f0-b49e-73e9f982809f"
+    },
+    "triggerConfig" : {
+      "triggerType" : "DEVICE_ACTIVITY",
+      "deviceProfiles" : null,
+      "devices" : null,
+      "notifyOn" : [ "ACTIVE", "INACTIVE" ],
+      "triggerType" : "DEVICE_ACTIVITY"
+    },
+    "triggerType" : "DEVICE_ACTIVITY"
+  }
+}

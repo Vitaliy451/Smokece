@@ -1,0 +1,32 @@
+{
+  "entityType" : "ASSET_PROFILE",
+  "entity" : {
+    "default" : false,
+    "defaultDashboardId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "54306960-7824-11f0-98b6-276650a22f47"
+    },
+    "defaultEdgeRuleChainId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "2be1f710-03d2-11f0-b49e-73e9f982809f"
+    },
+    "defaultQueueName" : "Main",
+    "defaultRuleChainId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "5b2096f0-1a00-11f0-9ee7-9b7542cab820"
+    },
+    "description" : "This is an asset profile for VC test in the scope of CE 4.2.1 upgrade.",
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "f2864040-a9d8-11f0-80dc-a13212beee54"
+    },
+    "image" : "tb-image;/api/images/tenant/2071669.png",
+    "name" : "AssetProfileVersionTest"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}

@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+    },
+    "checksum" : "ef0f04d4085bbfd9bbcfd3208567b19698a24890e080393ac9149b060ecb375d",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "application/json",
+    "data" : "ewogICJ0eXBlIjogIlNDUklQVCIsCiAgIm5hbWUiOiAidGVzdCIsCiAgImRlYnVnU2V0dGluZ3MiOiB7CiAgICAiZmFpbHVyZXNFbmFibGVkIjogdHJ1ZSwKICAgICJhbGxFbmFibGVkIjogZmFsc2UsCiAgICAiYWxsRW5hYmxlZFVudGlsIjogMTc1Mzk3NDQ0NjYzOAogIH0sCiAgImNvbmZpZ3VyYXRpb25WZXJzaW9uIjogMCwKICAiY29uZmlndXJhdGlvbiI6IHsKICAgICJ0eXBlIjogIlNDUklQVCIsCiAgICAiYXJndW1lbnRzIjogewogICAgICAiYXR0IjogewogICAgICAgICJyZWZFbnRpdHlLZXkiOiB7CiAgICAgICAgICAia2V5IjogIjciLAogICAgICAgICAgInR5cGUiOiAiQVRUUklCVVRFIiwKICAgICAgICAgICJzY29wZSI6ICJTRVJWRVJfU0NPUEUiCiAgICAgICAgfSwKICAgICAgICAiZGVmYXVsdFZhbHVlIjogIiIKICAgICAgfSwKICAgICAgInN0ciI6IHsKICAgICAgICAicmVmRW50aXR5S2V5IjogewogICAgICAgICAgImtleSI6ICIxNCIsCiAgICAgICAgICAidHlwZSI6ICJUU19MQVRFU1QiCiAgICAgICAgfSwKICAgICAgICAiZGVmYXVsdFZhbHVlIjogIiIKICAgICAgfSwKICAgICAgInRtcCI6IHsKICAgICAgICAicmVmRW50aXR5S2V5IjogewogICAgICAgICAgImtleSI6ICJyYXdEYXRhIiwKICAgICAgICAgICJ0eXBlIjogIlRTX0xBVEVTVCIKICAgICAgICB9LAogICAgICAgICJkZWZhdWx0VmFsdWUiOiAiW3tcInRlc3RfMVwiOjQ1NixcImJcIjoxNX0se1widGVzdF8yXCI6NTV9XSIKICAgICAgfQogICAgfSwKICAgICJleHByZXNzaW9uIjogIi8vIFNhbXBsZSBzY3JpcHQgdG8gY29udmVydCB0ZW1wZXJhdHVyZSByZWFkaW5ncyBmcm9tIEZhaHJlbmhlaXQgdG8gQ2Vsc2l1c1xudmFyIHJlc3VsdCA9IHRtcFswXS5iO1xucmV0dXJue1xuICAgIFwicmVzdWx0XCI6IHJlc3VsdCAqIDIgKyBhdHQgKyBzdHJcbn07IiwKICAgICJvdXRwdXQiOiB7CiAgICAgICJuYW1lIjogIiIsCiAgICAgICJ0eXBlIjogIlRJTUVfU0VSSUVTIgogICAgfQogIH0KfQ==",
+    "dataSize" : 1006,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "fc27dc20-535d-11f0-8c08-5da2d50d0a40"
+    },
+    "externalId" : null,
+    "fileName" : "test (1).json",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "cbd08550-78f0-11f0-a4b0-7f4ad3d52a80"
+    },
+    "name" : "Newly",
+    "tag" : "Newly  1111",
+    "title" : "Newly",
+    "type" : "FIRMWARE",
+    "url" : null,
+    "version" : "1111"
+  }
+}

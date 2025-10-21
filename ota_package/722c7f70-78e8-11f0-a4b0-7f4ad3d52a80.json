@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?87888888888888888"
+    },
+    "checksum" : "d327c0dbc1e91e74cea50f1d0fa48ab35af53e43467d99d7390193c034559869",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "application/json",
+    "data" : "ewogICJ0aGluZ3Nib2FyZEFwaUVuZHBvaW50IjogImh0dHBzOi8vcGUudGJxYS5jbG91ZCIsCiAgImFwcExpbmtzVXJsSG9zdCI6ICJwZS50YnFhLmNsb3VkIiwKICAiYXBwTGlua3NVcmxTY2hlbWUiOiAiaHR0cHMiLAogICJyZWdpc3RyYXRpb25SZWRpcmVjdFVybFNjaGVtZSI6ICJ0YnNjaGVtZSIsCiAgInJlZ2lzdHJhdGlvblJlZGlyZWN0VXJsSG9zdCI6ICJhcHAucGUudGhpbmdzYm9hcmQub3JnIiwKICAiYW5kcm9pZEFwcGxpY2F0aW9uSWQiOiAibXkuYW5kcm9pZC5hcHBsaWNhdGlvbiIsCiAgImFuZHJvaWRBcHBsaWNhdGlvbk5hbWUiOiAicGVUQiIsCiAgInRoaW5nc2JvYXJkT0F1dGgyQ2FsbGJhY2tVcmxTY2hlbWUiOiAibXkuYW5kcm9pZC5hcHBsaWNhdGlvbi5hdXRoIiwKICAidGhpbmdzYm9hcmRBbmRyb2lkQXBwU2VjcmV0IjogIlNqQnBVRFJ1Tm01VFQwWTRZM0ZuU0U5WWVtbDVOR0pCT0hobGNIZ3hNMWhvWW1GdlNuYzNZWEZwZUVoSVJuQnJjMG95ZDFFMlNWaFdSR0ZrWVU1c1pRPT0iLAogICJpb3NBcHBsaWNhdGlvbklkIjogIm15Lmlvcy5hcHBsaWNhdGlvbiIsCiAgImlvc0FwcGxpY2F0aW9uTmFtZSI6ICJwZVRCIiwKICAidGhpbmdzYm9hcmRJb3NBcHBTZWNyZXQiOiAiWVZKaWQzZEdkMXA1Wkd4RlRsQkpPVTVIUmsxV1VGcEtlWHB5TmtveE4wOTFOVmxtYld0dmVuWklRbkZ1YVZJeFdqSXpXRTVtVHpBMVRXczBkSGw1Umc9PSIKfQ==",
+    "dataSize" : 712,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "d12692f0-78e7-11f0-a4b0-7f4ad3d52a80"
+    },
+    "externalId" : null,
+    "fileName" : "configs.json",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "722c7f70-78e8-11f0-a4b0-7f4ad3d52a80"
+    },
+    "name" : "OTA software",
+    "tag" : "OTA software v1.2",
+    "title" : "OTA software",
+    "type" : "SOFTWARE",
+    "url" : null,
+    "version" : "v1.2"
+  }
+}

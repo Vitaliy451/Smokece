@@ -1,0 +1,37 @@
+{
+  "entityType" : "NOTIFICATION_RULE",
+  "entity" : {
+    "additionalConfig" : {
+      "description" : "test"
+    },
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "cb3e7f60-535d-11f0-8c08-5da2d50d0a40"
+    },
+    "name" : "Rule2",
+    "recipientsConfig" : {
+      "escalationTable" : {
+        "0" : [ "2c140390-03d2-11f0-b49e-73e9f982809f" ],
+        "60" : [ "2c140390-03d2-11f0-b49e-73e9f982809f" ]
+      },
+      "triggerType" : "ALARM"
+    },
+    "templateId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "2f357870-535e-11f0-8c08-5da2d50d0a40"
+    },
+    "triggerConfig" : {
+      "triggerType" : "ALARM",
+      "alarmSeverities" : [ "CRITICAL" ],
+      "alarmTypes" : [ "type" ],
+      "clearRule" : {
+        "alarmStatuses" : [ "ACK" ]
+      },
+      "notifyOn" : [ "CREATED" ],
+      "triggerType" : "ALARM"
+    },
+    "triggerType" : "ALARM"
+  }
+}

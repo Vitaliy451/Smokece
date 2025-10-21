@@ -1,0 +1,27 @@
+{
+  "entityType" : "AI_MODEL",
+  "entity" : {
+    "configuration" : {
+      "frequencyPenalty" : null,
+      "maxOutputTokens" : null,
+      "maxRetries" : null,
+      "modelId" : "gpt-4o",
+      "presencePenalty" : null,
+      "providerConfig" : {
+        "apiKey" : "demo",
+        "baseUrl" : "https://api.openai.com/v1"
+      },
+      "provider" : "OPENAI",
+      "temperature" : null,
+      "timeoutSeconds" : null,
+      "topP" : null,
+      "modelType" : "CHAT"
+    },
+    "externalId" : null,
+    "name" : "dfhdf",
+    "id" : {
+      "entityType" : "AI_MODEL",
+      "id" : "a1ebf590-7ea3-11f0-a02e-457a3d2ba60e"
+    }
+  }
+}

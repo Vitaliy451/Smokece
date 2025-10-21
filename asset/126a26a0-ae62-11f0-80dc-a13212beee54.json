@@ -21,6 +21,7 @@
     "name" : "rootAsset",
     "type" : "AssetProfileVersionTest"
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },

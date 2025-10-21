@@ -1,0 +1,37 @@
+{
+  "entityType" : "NOTIFICATION_TEMPLATE",
+  "entity" : {
+    "configuration" : {
+      "deliveryMethodsTemplates" : {
+        "WEB" : {
+          "method" : "WEB",
+          "additionalConfig" : {
+            "icon" : {
+              "enabled" : true,
+              "icon" : "local_shipping",
+              "color" : "#757575"
+            },
+            "actionButtonConfig" : {
+              "enabled" : false
+            }
+          },
+          "body" : "Test message ${deviceName}",
+          "enabled" : true,
+          "subject" : "Test message ${deviceName}"
+        },
+        "SLACK" : {
+          "method" : "SLACK",
+          "body" : "device activated",
+          "enabled" : true
+        }
+      }
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "884b0ce0-5359-11f0-8c08-5da2d50d0a40"
+    },
+    "name" : "Device Notification",
+    "notificationType" : "DEVICE_ACTIVITY"
+  }
+}

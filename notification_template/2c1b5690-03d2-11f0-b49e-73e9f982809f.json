@@ -1,0 +1,38 @@
+{
+  "entityType" : "NOTIFICATION_TEMPLATE",
+  "entity" : {
+    "configuration" : {
+      "deliveryMethodsTemplates" : {
+        "WEB" : {
+          "method" : "WEB",
+          "additionalConfig" : {
+            "icon" : {
+              "enabled" : true,
+              "icon" : "info",
+              "color" : "#757575"
+            },
+            "actionButtonConfig" : {
+              "enabled" : true,
+              "text" : "Go to device",
+              "linkType" : "LINK",
+              "link" : "/devices/${deviceId}"
+            }
+          },
+          "body" : "Device '${deviceName}' of type '${deviceType}' is now ${eventType}",
+          "enabled" : true,
+          "subject" : "Device '${deviceName}' became ${eventType}"
+        }
+      }
+    },
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "2c1b5690-03d2-11f0-b49e-73e9f982809f"
+    },
+    "id" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "2c1b5690-03d2-11f0-b49e-73e9f982809f"
+    },
+    "name" : "Device activity notification",
+    "notificationType" : "DEVICE_ACTIVITY"
+  }
+}

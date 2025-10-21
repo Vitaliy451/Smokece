@@ -1,0 +1,37 @@
+{
+  "entityType" : "NOTIFICATION_RULE",
+  "entity" : {
+    "additionalConfig" : {
+      "description" : ""
+    },
+    "enabled" : true,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "a77d3f40-1a04-11f0-9ee7-9b7542cab820"
+    },
+    "id" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "a77d3f40-1a04-11f0-9ee7-9b7542cab820"
+    },
+    "name" : "new",
+    "recipientsConfig" : {
+      "targets" : [ "2c10a830-03d2-11f0-b49e-73e9f982809f" ],
+      "triggerType" : "RULE_ENGINE_COMPONENT_LIFECYCLE_EVENT"
+    },
+    "templateId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "2c1f9c50-03d2-11f0-b49e-73e9f982809f"
+    },
+    "triggerConfig" : {
+      "triggerType" : "RULE_ENGINE_COMPONENT_LIFECYCLE_EVENT",
+      "onlyRuleChainLifecycleFailures" : true,
+      "onlyRuleNodeLifecycleFailures" : false,
+      "ruleChainEvents" : [ "STARTED", "UPDATED", "STOPPED" ],
+      "ruleChains" : [ "61ec8ca0-1a00-11f0-9ee7-9b7542cab820", "5b2096f0-1a00-11f0-9ee7-9b7542cab820", "2bd61030-03d2-11f0-b49e-73e9f982809f" ],
+      "ruleNodeEvents" : [ "STARTED", "UPDATED", "STOPPED" ],
+      "trackRuleNodeEvents" : true,
+      "triggerType" : "RULE_ENGINE_COMPONENT_LIFECYCLE_EVENT"
+    },
+    "triggerType" : "RULE_ENGINE_COMPONENT_LIFECYCLE_EVENT"
+  }
+}

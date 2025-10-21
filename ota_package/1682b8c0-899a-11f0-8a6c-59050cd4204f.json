@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : "7455806ed36ad2f9e45860ece3791cfc83c891415acc31380ff9a4a0f6b46a41",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "application/json",
+    "data" : "WwogIHsKICAgICJpZCI6ICJtbmNndSIsCiAgICAibmFtZSI6ICJneXRqbSIsCiAgICAiaGludCI6ICJjdWtneXQiLAogICAgImdyb3VwIjogImtneXUiLAogICAgInR5cGUiOiAidGV4dCIsCiAgICAiZGVmYXVsdCI6ICJreXVnayIKICB9LAogIHsKICAgICJpZCI6ICJ4bXNldHh3IiwKICAgICJuYW1lIjogIngzbXd0eHciLAogICAgImhpbnQiOiAiendtM3R6bSAzIGU0IiwKICAgICJncm91cCI6ICJjZTR5IiwKICAgICJ0eXBlIjogImltYWdlIiwKICAgICJkZWZhdWx0IjogInRiLWltYWdlOy9hcGkvaW1hZ2VzL3RlbmFudC90aGFua195b3UucG5nIgogIH0KXQ==",
+    "dataSize" : 319,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "fae30930-8999-11f0-8a6c-59050cd4204f"
+    },
+    "externalId" : null,
+    "fileName" : "LS widget-settings-form.json",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "1682b8c0-899a-11f0-8a6c-59050cd4204f"
+    },
+    "name" : "new ota",
+    "tag" : "new ota 1.1",
+    "title" : "new ota",
+    "type" : "FIRMWARE",
+    "url" : null,
+    "version" : "1.1"
+  }
+}

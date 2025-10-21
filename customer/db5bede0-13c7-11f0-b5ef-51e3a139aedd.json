@@ -1,0 +1,32 @@
+{
+  "entityType" : "CUSTOMER",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "",
+      "homeDashboardId" : null,
+      "homeDashboardHideToolbar" : true
+    },
+    "address" : null,
+    "address2" : null,
+    "city" : null,
+    "country" : null,
+    "email" : null,
+    "externalId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "db5bede0-13c7-11f0-b5ef-51e3a139aedd"
+    },
+    "id" : {
+      "entityType" : "CUSTOMER",
+      "id" : "db5bede0-13c7-11f0-b5ef-51e3a139aedd"
+    },
+    "name" : "Vitaliy tenant customer",
+    "phone" : null,
+    "state" : null,
+    "title" : "Vitaliy tenant customer",
+    "zip" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : "ffed1d1eada35ffcbde19596c3145ac43a280a57ffdce75f07aac32688827306",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "text/javascript",
+    "data" : "ZXhwb3J0IGNvbnN0IGNpcmNsZSA9ICcmIzExMDQ0Oyc7Cg==",
+    "dataSize" : 34,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "2beccc80-03d2-11f0-b49e-73e9f982809f"
+    },
+    "externalId" : null,
+    "fileName" : "new_script.js",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "418b0730-ad98-11f0-80dc-a13212beee54"
+    },
+    "name" : "test123",
+    "tag" : "test123 3",
+    "title" : "test123",
+    "type" : "FIRMWARE",
+    "url" : null,
+    "version" : "3"
+  }
+}

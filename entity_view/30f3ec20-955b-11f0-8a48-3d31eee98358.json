@@ -1,0 +1,61 @@
+{
+  "entityType" : "ENTITY_VIEW",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "endTimeMs" : 0,
+    "entityId" : {
+      "entityType" : "ASSET",
+      "id" : "966ace60-0fd8-11f0-b71d-d9bc0780d3f0"
+    },
+    "externalId" : null,
+    "keys" : {
+      "attributes" : {
+        "cs" : null,
+        "sh" : null,
+        "ss" : null
+      },
+      "timeseries" : null
+    },
+    "name" : "test 4",
+    "startTimeMs" : 0,
+    "type" : "Test type",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "id" : {
+      "entityType" : "ENTITY_VIEW",
+      "id" : "30f3ec20-955b-11f0-8a48-3d31eee98358"
+    }
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : 8.7,
+      "jsonValue" : null,
+      "key" : "ddu56",
+      "lastUpdateTs" : 1758290007179,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "e4y",
+      "lastUpdateTs" : 1758290054329,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"msg\":\"hello\"}",
+      "key" : "frer",
+      "lastUpdateTs" : 1758290396902,
+      "longValue" : null,
+      "strValue" : null
+    } ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "entityType" : "DEVICE_PROFILE",
+  "entity" : {
+    "default" : false,
+    "defaultDashboardId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "61569350-4b86-11f0-8b21-95bd17c191f3"
+    },
+    "defaultEdgeRuleChainId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "2be1f710-03d2-11f0-b49e-73e9f982809f"
+    },
+    "defaultQueueName" : "HighPriority",
+    "defaultRuleChainId" : null,
+    "description" : "This is a device profile for VC test in the scope of CE 4.2.1 upgrade.",
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "b4f34fc0-a9d8-11f0-80dc-a13212beee54"
+    },
+    "image" : "tb-image;/api/images/tenant/laugh_squint_emoticon_flat_black_white_symmetric_circle_face_outline_6921526.jpg",
+    "name" : "DeviceProfileVersionTest",
+    "profileData" : {
+      "alarms" : null,
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "provisionConfiguration" : {
+        "type" : "DISABLED",
+        "provisionDeviceSecret" : null
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "provisionDeviceKey" : null,
+    "provisionType" : "DISABLED",
+    "softwareId" : null,
+    "transportType" : "DEFAULT",
+    "type" : "DEFAULT"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}

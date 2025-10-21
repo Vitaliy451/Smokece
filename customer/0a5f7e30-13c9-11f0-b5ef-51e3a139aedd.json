@@ -1,0 +1,30 @@
+{
+  "entityType" : "CUSTOMER",
+  "entity" : {
+    "additionalInfo" : {
+      "isPublic" : true
+    },
+    "address" : null,
+    "address2" : null,
+    "city" : null,
+    "country" : null,
+    "email" : null,
+    "externalId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0a5f7e30-13c9-11f0-b5ef-51e3a139aedd"
+    },
+    "id" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0a5f7e30-13c9-11f0-b5ef-51e3a139aedd"
+    },
+    "name" : "Public",
+    "phone" : null,
+    "state" : null,
+    "title" : "Public",
+    "zip" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
