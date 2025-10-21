@@ -2,11 +2,11 @@
   "entityType" : "ASSET",
   "entity" : {
     "additionalInfo" : {
-      "description" : ""
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel leo ut nibh facilisis cursus vitae vel leo. Pellentesque sed placerat risus, et suscipit lorem. Nullam id feugiat massa."
     },
     "assetProfileId" : {
       "entityType" : "ASSET_PROFILE",
-      "id" : "2c002d70-03d2-11f0-b49e-73e9f982809f"
+      "id" : "f2864040-a9d8-11f0-80dc-a13212beee54"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -17,9 +17,9 @@
       "entityType" : "ASSET",
       "id" : "126a26a0-ae62-11f0-80dc-a13212beee54"
     },
-    "label" : null,
+    "label" : "Hello",
     "name" : "rootAsset",
-    "type" : "default"
+    "type" : "AssetProfileVersionTest"
   },
   "attributes" : {
     "SERVER_SCOPE" : [ ]
